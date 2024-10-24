@@ -1,10 +1,3 @@
-// Assignment Name: Card Game
-// Name of Student: Allen Sam
-// Due Date: 2020-11-06 (11:59 PM)
-// Brief Program Description:
-// This program will replicate a card game that determines a winner through the card combinations in the hands.
-// Different card combinations give higher value than others and a winner is determined by the number of points.
-
 class CardGame {
 
 	// Global Variable List
